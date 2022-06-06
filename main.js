@@ -108,7 +108,7 @@ let melodyMix = tracery.createGrammar({
 
 // RHYTHM MAKER!
 let rhythmGrammar1 = tracery.createGrammar({
-  'groove': ['x____--x', 'x--xxxx_', 'x-xx__--', '--x_-x--'],
+  'groove': ['xxx__--x', 'x--xxxx_', 'x---__--', '--x_-x--'],
   'text_1': ['#groove#'],
 });
 
